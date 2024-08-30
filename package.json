@@ -1,6 +1,5 @@
 {
-  "name": "my-project",
-  "private": true,
+  "name": "joao_ramos_dr2_tp2_2024.2",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -8,6 +7,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vite": "^5.0.12"
+    "vite": "^5.0.12",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }

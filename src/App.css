@@ -1,0 +1,53 @@
+
+
+p{
+  font-family: Helvetica, "sans-serif";
+}
+
+.page_title{
+  font-size: 50px;
+  font-weight: 300;
+  margin-top: 100px;
+  padding: 0;
+}
+
+.app{
+  min-height: 100vh;
+  margin:0;
+  background: linear-gradient(to right, #ffffff, #eeeeff);
+
+  font-family: Helvetica, "sans-serif";
+  color: #303030;
+  padding: 20px;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.parte_container{  
+  width: 50vw;
+  min-width: 500px;
+  box-shadow: 8px 5px 15px #888888;
+  margin-top: 5vh;
+  background: white;
+  box-shadow: 8px 5px 15px rgba(0,0,0,50%);
+}
+
+.parte{
+  text-align: center;
+  margin-top: 20px ;
+  border-radius: 20px;
+}
+
+.title{
+  font-size: 30px ;
+}
+
+.description{
+  font-family: monospace;
+}
+
+.grid{
+  color: #eeeeee;
+  background: linear-gradient(to right, #ff0000, #800000);
+}
